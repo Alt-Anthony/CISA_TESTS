@@ -69,8 +69,6 @@ interrupt
 ## What are the 2 types of processes used to manufacture goods?
 Process and Discrete
 
-## Why are some companies reluctant to report attacks against business and control system infrastructure?
-They fear the loss of customer confidence.
 
 ## Which of the following is an example of a generation facility?
 Dams, wind, or solar farms
